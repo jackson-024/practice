@@ -1,14 +1,14 @@
 [
     {
-        "id": 1,
-        "COUNTY_NAM": "Kenya",
-        "Male": "23548056",
-        "Female": "24014716",
-        "Intersex": "1524",
-        "Total": "47564296"
+        "id": 0,
+        "COUNTY_NAM": "Nairobi",
+        "Male": "2192452",
+        "Female": "2204376",
+        "Intersex": "245",
+        "Total": "4397073"
     },
     {
-        "id": 2,
+        "id": 1,
         "COUNTY_NAM": "Mombasa",
         "Male": "610257",
         "Female": "598046",
@@ -16,7 +16,7 @@
         "Total": "1208333"
     },
     {
-        "id": 3,
+        "id": 2,
         "COUNTY_NAM": "Kwale",
         "Male": "425121",
         "Female": "441681",
@@ -24,7 +24,7 @@
         "Total": "866820"
     },
     {
-        "id": 4,
+        "id": 3,
         "COUNTY_NAM": "Kilifi",
         "Male": "704089",
         "Female": "749673",
@@ -32,7 +32,7 @@
         "Total": "1453787"
     },
     {
-        "id": 5,
+        "id": 4,
         "COUNTY_NAM": "Tana River",
         "Male": "158550",
         "Female": "157391",
@@ -40,7 +40,7 @@
         "Total": "315943"
     },
     {
-        "id": 6,
+        "id": 5,
         "COUNTY_NAM": "Lamu",
         "Male": "76103",
         "Female": "67813",
@@ -48,7 +48,7 @@
         "Total": "143920"
     },
     {
-        "id": 7,
+        "id": 6,
         "COUNTY_NAM": "Taita-Taveta",
         "Male": "173337",
         "Female": "167327",
@@ -56,7 +56,7 @@
         "Total": "340671"
     },
     {
-        "id": 8,
+        "id": 7,
         "COUNTY_NAM": "Garissa",
         "Male": "458975",
         "Female": "382344",
@@ -64,7 +64,7 @@
         "Total": "841353"
     },
     {
-        "id": 9,
+        "id": 8,
         "COUNTY_NAM": "Wajir",
         "Male": "415374",
         "Female": "365840",
@@ -72,7 +72,7 @@
         "Total": "781263"
     },
     {
-        "id": 10,
+        "id": 9,
         "COUNTY_NAM": "Mandera",
         "Male": "434976",
         "Female": "432444",
@@ -80,7 +80,7 @@
         "Total": "867457"
     },
     {
-        "id": 11,
+        "id": 10,
         "COUNTY_NAM": "Marsabit",
         "Male": "243548",
         "Female": "216219",
@@ -88,7 +88,7 @@
         "Total": "459785"
     },
     {
-        "id": 12,
+        "id": 11,
         "COUNTY_NAM": "Isiolo",
         "Male": "139510",
         "Female": "128483",
@@ -96,7 +96,7 @@
         "Total": "268002"
     },
     {
-        "id": 13,
+        "id": 12,
         "COUNTY_NAM": "Meru",
         "Male": "767698",
         "Female": "777975",
@@ -104,7 +104,7 @@
         "Total": "1545714"
     },
     {
-        "id": 14,
+        "id": 13,
         "COUNTY_NAM": "Tharaka-Nithi",
         "Male": "193764",
         "Female": "199406",
@@ -112,7 +112,7 @@
         "Total": "393177"
     },
     {
-        "id": 15,
+        "id": 14,
         "COUNTY_NAM": "Embu",
         "Male": "304208",
         "Female": "304367",
@@ -120,7 +120,7 @@
         "Total": "608599"
     },
     {
-        "id": 16,
+        "id": 15,
         "COUNTY_NAM": "Kitui",
         "Male": "549003",
         "Female": "587151",
@@ -128,7 +128,7 @@
         "Total": "1136187"
     },
     {
-        "id": 17,
+        "id": 16,
         "COUNTY_NAM": "Machakos",
         "Male": "710707",
         "Female": "711191",
@@ -136,15 +136,7 @@
         "Total": "1421932"
     },
     {
-        "id": 18,
-        "COUNTY_NAM": "Makueni",
-        "Male": "489691",
-        "Female": "497942",
-        "Intersex": "20",
-        "Total": "987653"
-    },
-    {
-        "id": 19,
+        "id": 17,
         "COUNTY_NAM": "Nyandarua",
         "Male": "315022",
         "Female": "323247",
@@ -152,7 +144,7 @@
         "Total": "638289"
     },
     {
-        "id": 20,
+        "id": 18,
         "COUNTY_NAM": "Nyeri",
         "Male": "374288",
         "Female": "384845",
@@ -160,7 +152,7 @@
         "Total": "759164"
     },
     {
-        "id": 21,
+        "id": 19,
         "COUNTY_NAM": "Kirinyaga",
         "Male": "302011",
         "Female": "308369",
@@ -168,7 +160,7 @@
         "Total": "610411"
     },
     {
-        "id": 22,
+        "id": 20,
         "COUNTY_NAM": "Murang'a",
         "Male": "523940",
         "Female": "532669",
@@ -176,7 +168,7 @@
         "Total": "1056640"
     },
     {
-        "id": 23,
+        "id": 21,
         "COUNTY_NAM": "Kiambu",
         "Male": "1187146",
         "Female": "1230454",
@@ -184,7 +176,7 @@
         "Total": "2417735"
     },
     {
-        "id": 24,
+        "id": 22,
         "COUNTY_NAM": "Turkana",
         "Male": "478087",
         "Female": "448868",
@@ -192,7 +184,7 @@
         "Total": "926976"
     },
     {
-        "id": 25,
+        "id": 23,
         "COUNTY_NAM": "West Pokot",
         "Male": "307013",
         "Female": "314213",
@@ -200,7 +192,7 @@
         "Total": "621241"
     },
     {
-        "id": 26,
+        "id": 24,
         "COUNTY_NAM": "Samburu",
         "Male": "156774",
         "Female": "153546",
@@ -208,15 +200,7 @@
         "Total": "310327"
     },
     {
-        "id": 27,
-        "COUNTY_NAM": "Trans Nzoia",
-        "Male": "489107",
-        "Female": "501206",
-        "Intersex": "28",
-        "Total": "990341"
-    },
-    {
-        "id": 28,
+        "id": 25,
         "COUNTY_NAM": "Uasin Gishu",
         "Male": "580269",
         "Female": "582889",
@@ -224,7 +208,7 @@
         "Total": "1163186"
     },
     {
-        "id": 29,
+        "id": 26,
         "COUNTY_NAM": "Elgeyo-Marakwet",
         "Male": "227317",
         "Female": "227151",
@@ -232,7 +216,7 @@
         "Total": "454480"
     },
     {
-        "id": 30,
+        "id": 27,
         "COUNTY_NAM": "Nandi",
         "Male": "441259",
         "Female": "444430",
@@ -240,7 +224,7 @@
         "Total": "885711"
     },
     {
-        "id": 31,
+        "id": 28,
         "COUNTY_NAM": "Baringo",
         "Male": "336322",
         "Female": "330428",
@@ -248,7 +232,7 @@
         "Total": "666763"
     },
     {
-        "id": 32,
+        "id": 29,
         "COUNTY_NAM": "Laikipia",
         "Male": "259440",
         "Female": "259102",
@@ -256,7 +240,7 @@
         "Total": "518560"
     },
     {
-        "id": 33,
+        "id": 30,
         "COUNTY_NAM": "Nakuru",
         "Male": "1077272",
         "Female": "1084835",
@@ -264,7 +248,7 @@
         "Total": "2162202"
     },
     {
-        "id": 34,
+        "id": 31,
         "COUNTY_NAM": "Narok",
         "Male": "579042",
         "Female": "578805",
@@ -272,7 +256,7 @@
         "Total": "1157873"
     },
     {
-        "id": 35,
+        "id": 32,
         "COUNTY_NAM": "Kajiado",
         "Male": "557098",
         "Female": "560704",
@@ -280,7 +264,15 @@
         "Total": "1117840"
     },
     {
-        "id": 36,
+        "id": 33,
+        "COUNTY_NAM": "Makueni",
+        "Male": "489691",
+        "Female": "497942",
+        "Intersex": "20",
+        "Total": "987653"
+    },
+    {
+        "id": 34,
         "COUNTY_NAM": "Kericho",
         "Male": "450741",
         "Female": "451008",
@@ -288,15 +280,7 @@
         "Total": "901777"
     },
     {
-        "id": 37,
-        "COUNTY_NAM": "Bomet",
-        "Male": "434287",
-        "Female": "441379",
-        "Intersex": "23",
-        "Total": "875689"
-    },
-    {
-        "id": 38,
+        "id": 35,
         "COUNTY_NAM": "Kakamega",
         "Male": "897133",
         "Female": "970406",
@@ -304,7 +288,7 @@
         "Total": "1867579"
     },
     {
-        "id": 39,
+        "id": 36,
         "COUNTY_NAM": "Vihiga",
         "Male": "283678",
         "Female": "306323",
@@ -312,7 +296,7 @@
         "Total": "590013"
     },
     {
-        "id": 40,
+        "id": 37,
         "COUNTY_NAM": "Bungoma",
         "Male": "812146",
         "Female": "858389",
@@ -320,7 +304,7 @@
         "Total": "1670570"
     },
     {
-        "id": 41,
+        "id": 38,
         "COUNTY_NAM": "Busia",
         "Male": "426252",
         "Female": "467401",
@@ -328,7 +312,7 @@
         "Total": "893681"
     },
     {
-        "id": 42,
+        "id": 39,
         "COUNTY_NAM": "Siaya",
         "Male": "471669",
         "Female": "521496",
@@ -336,15 +320,7 @@
         "Total": "993183"
     },
     {
-        "id": 43,
-        "COUNTY_NAM": "Kisumu",
-        "Male": "560942",
-        "Female": "594609",
-        "Intersex": "23",
-        "Total": "1155574"
-    },
-    {
-        "id": 44,
+        "id": 40,
         "COUNTY_NAM": "Homa Bay",
         "Male": "539560",
         "Female": "592367",
@@ -352,7 +328,7 @@
         "Total": "1131950"
     },
     {
-        "id": 45,
+        "id": 41,
         "COUNTY_NAM": "Migori",
         "Male": "536187",
         "Female": "580214",
@@ -360,7 +336,7 @@
         "Total": "1116436"
     },
     {
-        "id": 46,
+        "id": 42,
         "COUNTY_NAM": "Kisii",
         "Male": "605784",
         "Female": "661038",
@@ -368,7 +344,15 @@
         "Total": "1266860"
     },
     {
-        "id": 47,
+        "id": 43,
+        "COUNTY_NAM": "Bomet",
+        "Male": "434287",
+        "Female": "441379",
+        "Intersex": "23",
+        "Total": "875689"
+    },
+    {
+        "id": 44,
         "COUNTY_NAM": "Nyamira",
         "Male": "290907",
         "Female": "314656",
@@ -376,11 +360,19 @@
         "Total": "605576"
     },
     {
-        "id": 48,
-        "COUNTY_NAM": "Nairobi",
-        "Male": "2192452",
-        "Female": "2204376",
-        "Intersex": "245",
-        "Total": 4397073
+        "id": 45,
+        "COUNTY_NAM": "Kisumu",
+        "Male": "560942",
+        "Female": "594609",
+        "Intersex": "23",
+        "Total": "1155574"
+    },
+    {
+        "id": 46,
+        "COUNTY_NAM": "Trans Nzoia",
+        "Male": "489107",
+        "Female": "501206",
+        "Intersex": "28",
+        "Total": "990341"
     }
 ]
